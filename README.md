@@ -1,3 +1,1 @@
-# markdaar-frontend
-
-resume maker & editor
+# resume editor frontend
